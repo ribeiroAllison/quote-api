@@ -14,4 +14,4 @@ Simply download or clone the repo and execute this command in the terminal:
 After that execute the following command to start the server:
 ```node server.js```
 
-With the server running simply follow this [link](localhost:4001) copy and paste this address to your browser localhost:4001
+With the server running simply follow this <a href="localhost:4001" target="_blank">link</a> copy and paste this address to your browser localhost:4001
