@@ -1,3 +1,7 @@
+# Quotes API
+
+![alt screenshot of the program](/resources/screenshot.jpg "Program screenshot")
+
 # What is this?
 
 This is a simple server to test API routes using Express.js
